@@ -13,6 +13,9 @@ body{
     font-family: 'Poppins';
     font-style: normal;
     font-size: 1.6rem; /*16px*/
+
+    /*Desabilitou o pequeno scroll que ficou*/
+    position: fixed;
 }
 
 .container{
