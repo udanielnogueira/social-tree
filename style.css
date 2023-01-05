@@ -1,75 +1,83 @@
 :root{
-    --body-bg-color: #FAF7FD;
-    --purple: #BB99DD;
-    font-size: 62.5%; /*1rem = 10px*/
+    ---bg-color: #FAF7FD;
+    --main-color: #BB99DD;
+    font-size: 62.5%;
 }
 
+/* Reset */
 *{
-    margin: 0;
     padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
+/* Poppins Weight Light 300 Semibold 600 */
 body{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
-    font-size: 1.6rem; /*16px*/
+    font-size: 1.6rem;
 
-    /*Desabilitou o pequeno scroll que ficou*/
-    position: fixed;
+    color: var(--main-color);
+    background-color: var(---bg-color);
 }
 
+/* Centro da tela*/
 .container{
-    /*Centraliza no meio da página*/
     width: 100vw;
     height: 100vh;
-    background-color: var(--body-bg-color);
-}
-
-.container, .link, .profile{
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.profile img{
-    width: 20rem;
-    border-radius: 50%;
-}
-
 .profile{
-    width: 21rem;
-    height: 21rem;
-    border: 2px solid var(--purple);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 300;
+    gap: 1.5rem;
+    margin-bottom: 3.3rem;
+}
+
+.image{
+    display: flex;
+    border: solid 2px var(--main-color);
     border-radius: 50%;
 }
 
-.username{
-    font-weight: 300;
-    color: var(--purple);
-    margin-top: 2rem;
-    margin-bottom: 2.5rem;
-}
-
-.link{
-    padding: 1rem;
-    margin: 0.9rem;
-    border: 2px solid var(--purple);
-    width: 30rem;
-    border-radius: 0.4rem;
-    text-transform: uppercase;
-}
-
-.links a{
-    color: var(--purple);
-    font-weight: 600;
-    text-decoration: none;
+.image img{
+    height: 20rem;
+    border-radius: 50%;
+    border: solid 0px var(---bg-color);
+    margin: 0.5rem;
 }
 
 .links{
-    margin-bottom: 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    margin-bottom: 6.8rem;
 }
 
-.icon{
-    padding: 1.3rem;
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32.6rem;
+    height: 4.9rem;
+    border: solid 2px var(--main-color);
+    border-radius: 0.4rem;
+    padding: 1.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--main-color);
+    text-decoration: none;
+}
+
+.icons{
+    display: flex;
+    gap: 2.9rem;
 }

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Tree</title>
+    <title>Link Tree</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,26 +12,27 @@
 </head>
 <body>
     <div class="container">
-        <div class="profile">
-            <img src="assets/profile.jpg" alt="profile image">
-        </div>
+        <section class="profile">
+            <div class="image">
+                <img src="./assets/profile.jpg" alt="Profile image">
+            </div>
+            <p>@udanielnogueira</p>
+        </section>
 
-        <div class="username">@udanielnogueira</div>
+        <section class="links">
+            <a href="#" class="link">Link 1</a>
+            <a href="#" class="link">Link 2</a>
+            <a href="#" class="link">Link 3</a>
+            <a href="#" class="link">Link 4</a>
+        </section>
 
-        <div class="links">
-            <a href="https://github.com" class="link" target="_blank">Github</a>
-            <a href="https://linkedin.com" class="link" target="_blank">LinkedIn</a>
-            <a href="https://instagram.com" class="link" target="_blank">Instagram</a>
-            <a href="https://twitter.com" class="link" target="_blank">Twitter</a>
-        </div>
-
-        <div class="icons">
-            <img src="assets/github.svg" alt="github logo" class="icon">
-            <img src="assets/linkedin.svg" alt="linkedin logo" class="icon">
-            <img src="assets/instagram.svg" alt="instagram logo" class="icon">
-            <img src="assets/twitter.svg" alt="twitter logo" class="icon">
-            <img src="assets/twitch.svg" alt="twitch logo" class="icon">
-        </div>
+        <section class="icons">
+            <a href="#"><img src="./assets/twitter.svg" alt="Twitter"></a>
+            <a href="#"><img src="./assets/twitch.svg" alt="Twitch"></a>
+            <a href="#"><img src="./assets/instagram.svg" alt="Instagram"></a>
+            <a href="#"><img src="./assets/linkedin.svg" alt="LinkedIn"></a>
+            <a href="#"><img src="./assets/github.svg" alt="GitHub"></a>
+        </section>
     </div>
 </body>
 </html>
