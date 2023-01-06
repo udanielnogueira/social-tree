@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/github/languages/count/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/languages/top/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/social-tree">
-<img src="https://img.shields.io/github/license/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/last-commit/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/deployments/udanielnogueira/social-tree/github-pages">
+<img src="https://img.shields.io/github/license/udanielnogueira/social-tree">
 <img src="https://img.shields.io/badge/responsive-yes-ff69b4">
 </div>
 
