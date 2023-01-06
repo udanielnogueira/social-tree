@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/github/license/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/last-commit/udanielnogueira/social-tree">
 <img src="https://img.shields.io/github/deployments/udanielnogueira/social-tree/github-pages">
+<img src="https://img.shields.io/badge/responsive-yes-ff69b4">
 </div>
 
 ## Preview
@@ -32,7 +33,7 @@
 
 ## Layout do Projeto
 
-<a href="https://www.figma.com/file/xm70w668XkJnMFm6JjuIQI/DD-Social-links">Layout do Social Tree</a>
+<a href="https://www.figma.com/file/xm70w668XkJnMFm6JjuIQI/DD-Social-links" target="_blank">Layout do Social Tree</a>
 
 <!-- 
 Images
