@@ -18,7 +18,7 @@
 
 ### Mobile
 
-![Preview do projeto](assets/social-tree-mobile.JPG "Social Tree Mobile Preview")
+<img src=".assets/social-tree-mobile.JPG" height="300">
 
 ## Tecnologias
 
