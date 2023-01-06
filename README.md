@@ -28,11 +28,11 @@
 
 ## Link de acesso
 
-<a href="https://udanielnogueira.github.io/social-tree/" target="_blank">Portfolio Dashboard</a>
+<a href="https://udanielnogueira.github.io/social-tree/" target="_blank">Social Tree</a>
 
 ## Layout do Projeto
 
-<a href="https://www.figma.com/file/xm70w668XkJnMFm6JjuIQI/DD-Social-links">Layout do Portfolio Dashboard</a>
+<a href="https://www.figma.com/file/xm70w668XkJnMFm6JjuIQI/DD-Social-links">Layout do Social Tree</a>
 
 <!-- 
 Images
