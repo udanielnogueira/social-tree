@@ -18,7 +18,7 @@
 
 ### Mobile
 
-<img src=".assets/social-tree-mobile.JPG" height="300">
+<img src="assets/social-tree-mobile.JPG" height="300" alt="Social Tree Mobile Preview">
 
 ## Tecnologias
 
