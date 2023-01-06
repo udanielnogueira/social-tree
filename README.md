@@ -18,7 +18,7 @@
 
 ### Mobile
 
-![Preview do projet](assets/social-tree-mobile.jpg "Social Tree Mobile Preview")
+![Preview do projeto](assets/social-tree-mobile.JPG "Social Tree Mobile Preview")
 
 ## Tecnologias
 
