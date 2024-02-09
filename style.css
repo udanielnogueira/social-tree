@@ -1,38 +1,35 @@
-:root{
+/* Poppins Weight Light 300 Semibold 600 */
+
+:root {
     ---bg-color: #FAF7FD;
     --main-color: #BB99DD;
     font-size: 62.5%;
 }
 
-/* Reset */
-*{
-    padding: 0;
+* {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
-/* Poppins Weight Light 300 Semibold 600 */
-body{
+body {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-size: 1.6rem;
-
     color: var(--main-color);
     background-color: var(---bg-color);
 }
 
-/* Centro da tela*/
-.container{
+.container {
     width: 100vw;
     height: 100vh;
-    
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.profile{
+.profile {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,27 +39,27 @@ body{
     margin-bottom: 3.3rem;
 }
 
-.image{
+.image {
     display: flex;
     border: solid 2px var(--main-color);
     border-radius: 50%;
 }
 
-.image img{
+.image img {
     height: 20rem;
     border-radius: 50%;
     border: solid 0px var(---bg-color);
     margin: 0.5rem;
 }
 
-.links{
+.links {
     display: flex;
     flex-direction: column;
     gap: 1.6rem;
     margin-bottom: 6.8rem;
 }
 
-.link{
+.link {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,7 +74,7 @@ body{
     text-decoration: none;
 }
 
-.icons{
+.icons {
     display: flex;
     gap: 2.9rem;
 }
