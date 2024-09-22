@@ -16,11 +16,11 @@
 
 ### Desktop
 
-![Preview do projeto](assets/social-tree-desktop.png "Social Tree Desktop Preview")
+![Preview do projeto](assets/img/social-tree-desktop.png "Social Tree Desktop Preview")
 
 ### Mobile
 
-<img src="assets/social-tree-mobile.JPG" height="500" alt="Social Tree Mobile Preview">
+<img src="assets/img/social-tree-mobile.JPG" height="500" alt="Social Tree Mobile Preview">
 
 ## Tecnologias
 
