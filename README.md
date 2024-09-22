@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/udanielnogueira/social-tree/blob/main/assets/social-tree-logo.png" alt="Social Tree logo" height="250">
+<img src="./assets/img/social-tree-logo.png" alt="Social Tree logo" height="250">
 <h3>Social Tree</h3>
 <p>Uma aplicação de links para as redes sociais.</p>
 <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/social-tree">
